@@ -1,0 +1,45 @@
+Precision          0.616786
+Recall             0.592654
+Fmeasure_Score     0.596986
+hamming_loss       0.277028
+Accuracy_Score     0.722972
+Train/Test_Size    0.400000
+
+
+Precision          0.485134
+Recall             0.530577
+Fmeasure_Score     0.496780
+hamming_loss       0.342677
+Accuracy_Score     0.657323
+Train/Test_Size    0.300000
+
+Precision          0.490988
+Recall             0.571542
+Fmeasure_Score     0.518136
+hamming_loss       0.334720
+Accuracy_Score     0.665280
+Train/Test_Size    0.200000
+
+H1
+Precision          0.599025
+Recall             0.598794
+Fmeasure_Score     0.591233
+hamming_loss       0.270646
+Accuracy_Score     0.729354
+Train/Test_Size    0.400000
+dtype: float64
+
+
+Precision          0.604588
+Recall             0.568696
+Fmeasure_Score     0.576077
+hamming_loss       0.279670
+Accuracy_Score     0.720330
+Train/Test_Size    0.300000
+
+Precision          0.600403
+Recall             0.557191
+Fmeasure_Score     0.567399
+hamming_loss       0.281647
+Accuracy_Score     0.718353
+Train/Test_Size    0.200000
